@@ -1,8 +1,6 @@
 # Michael Smith
 
-**`Data Enthusiast`**
 
-I’m a recent computer science master’s graduate with a strong interest in data analytics. All projects were developed by me from start to finish either as individual projects or done as part of my MSc.
 
 ### 🧰 Languages and Tools
 
